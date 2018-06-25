@@ -1,7 +1,7 @@
 # cogip-survival-guide
 
 <p align="center">
-  <img width="200" alt="cogip 2000" src="https://i.ytimg.com/vi/8gmC3DFonH8/maxresdefault.jpg"/>
+  <img width="200" alt="cogip 2000" src="/assets/cogip.jpg"/>
 </p>
 
 How to survive in an old big company?
