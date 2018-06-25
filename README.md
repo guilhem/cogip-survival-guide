@@ -19,3 +19,15 @@ Here is a non-exhaustive list.
 ## Strategies
 
 ## Tips
+
+### The phone
+
+In every big company, people need to contact you. To ask something, to give you
+informations or just a little chat.
+
+If you don't want this, here's the trick :
+
+Get your phone, put it on your desk and that's it. Skip the configuration, don't
+turn it on. You got your phone, it is on your desk, that's all your team wants.
+
+And you'll never be annoyed by this phone.
